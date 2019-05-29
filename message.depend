@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1558666119 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\person.cpp
+	<cstring>
+	<iostream>
+	"person.h"
+
+1558666126 d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\person.h
+	<iostream>
+	<cstring>
+
+1558782882 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	"person.h"
+
+1558665396 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\person_search.cpp
+
+1558665278 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\void_search.cpp
+
+1558665336 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\message\void_sort.cpp
+
+1558958927 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\源代码message（abs）\abs\person.cpp
+	<cstring>
+	<iostream>
+	"person.h"
+
+1558794285 d:\201806062201 软工05 柴振豪 课程设计 通信录系统\源代码message（abs）\abs\person.h
+	<iostream>
+	<cstring>
+
+1558958081 source:d:\201806062201 软工05 柴振豪 课程设计 通信录系统\源代码message（abs）\abs\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	"person.h"
+
